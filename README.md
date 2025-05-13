@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/Javidcp/leetcode/tree/master/2756-buy-two-chocolates) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
