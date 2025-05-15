@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Javidcp/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Javidcp/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Javidcp/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Javidcp/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Javidcp/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Greedy
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Javidcp/leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2756-buy-two-chocolates](https://github.com/Javidcp/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Javidcp/leetcode/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
