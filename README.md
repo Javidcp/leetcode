@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Javidcp/leetcode/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/Javidcp/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/Javidcp/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Javidcp/leetcode/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/Javidcp/leetcode/tree/master/2128-reverse-prefix-of-word) |
