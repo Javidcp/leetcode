@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Javidcp/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Javidcp/leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Javidcp/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Javidcp/leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Javidcp/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
