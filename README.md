@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Javidcp/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Javidcp/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Javidcp/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Javidcp/leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
 ## String
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Javidcp/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Javidcp/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
