@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Javidcp/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Javidcp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Javidcp/leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Javidcp/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Javidcp/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Javidcp/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Javidcp/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Javidcp/leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Javidcp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Javidcp/leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Javidcp/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
