@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Javidcp/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2756-buy-two-chocolates](https://github.com/Javidcp/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/Javidcp/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Javidcp/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Javidcp/leetcode/tree/master/2235-capitalize-the-title) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Javidcp/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3194-find-words-containing-character](https://github.com/Javidcp/leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
