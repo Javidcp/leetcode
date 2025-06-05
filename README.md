@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Javidcp/leetcode/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Javidcp/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2391-strong-password-checker-ii](https://github.com/Javidcp/leetcode/tree/master/2391-strong-password-checker-ii) |
 | [3194-find-words-containing-character](https://github.com/Javidcp/leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
