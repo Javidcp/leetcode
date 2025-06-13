@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Javidcp/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2756-buy-two-chocolates](https://github.com/Javidcp/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Javidcp/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/Javidcp/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Javidcp/leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2756-buy-two-chocolates](https://github.com/Javidcp/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Javidcp/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Math
 |  |
 | ------- |
