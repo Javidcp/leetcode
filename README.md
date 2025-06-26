@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Javidcp/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Javidcp/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Javidcp/leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Javidcp/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Javidcp/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Javidcp/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Javidcp/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
