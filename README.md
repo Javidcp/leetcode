@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/Javidcp/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2756-buy-two-chocolates](https://github.com/Javidcp/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Javidcp/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Javidcp/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Javidcp/leetcode/tree/master/3194-find-words-containing-character) |
 | [3723-sum-of-good-numbers](https://github.com/Javidcp/leetcode/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Javidcp/leetcode/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Javidcp/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2391-strong-password-checker-ii](https://github.com/Javidcp/leetcode/tree/master/2391-strong-password-checker-ii) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Javidcp/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Javidcp/leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
