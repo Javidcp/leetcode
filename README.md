@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Javidcp/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/Javidcp/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Javidcp/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Javidcp/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Javidcp/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Javidcp/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Javidcp/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Javidcp/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/Javidcp/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 ## String
 |  |
