@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Javidcp/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Javidcp/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Javidcp/leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Javidcp/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/Javidcp/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Javidcp/leetcode/tree/master/0782-jewels-and-stones) |
 | [1660-thousand-separator](https://github.com/Javidcp/leetcode/tree/master/1660-thousand-separator) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Javidcp/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Javidcp/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
