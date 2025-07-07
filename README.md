@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Javidcp/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1603-running-sum-of-1d-array](https://github.com/Javidcp/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Javidcp/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Javidcp/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Javidcp/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Javidcp/leetcode/tree/master/0782-jewels-and-stones) |
 | [1660-thousand-separator](https://github.com/Javidcp/leetcode/tree/master/1660-thousand-separator) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Javidcp/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2128-reverse-prefix-of-word](https://github.com/Javidcp/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Javidcp/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
