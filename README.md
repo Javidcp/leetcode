@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Javidcp/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/Javidcp/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Javidcp/leetcode/tree/master/0782-jewels-and-stones) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Javidcp/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1660-thousand-separator](https://github.com/Javidcp/leetcode/tree/master/1660-thousand-separator) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Javidcp/leetcode/tree/master/1899-count-items-matching-a-rule) |
