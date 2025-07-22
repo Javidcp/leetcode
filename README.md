@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Javidcp/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Javidcp/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Javidcp/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1813-maximum-erasure-value](https://github.com/Javidcp/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1899-count-items-matching-a-rule](https://github.com/Javidcp/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Javidcp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Javidcp/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Javidcp/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Javidcp/leetcode/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Javidcp/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Javidcp/leetcode/tree/master/1813-maximum-erasure-value) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Javidcp/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1813-maximum-erasure-value](https://github.com/Javidcp/leetcode/tree/master/1813-maximum-erasure-value) |
 ## String Matching
 |  |
 | ------- |
